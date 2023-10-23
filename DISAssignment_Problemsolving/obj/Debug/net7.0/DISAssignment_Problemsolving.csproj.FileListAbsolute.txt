@@ -1,0 +1,14 @@
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\bin\Debug\net7.0\DISAssignment_Problemsolving.exe
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\bin\Debug\net7.0\DISAssignment_Problemsolving.deps.json
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\bin\Debug\net7.0\DISAssignment_Problemsolving.runtimeconfig.json
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\bin\Debug\net7.0\DISAssignment_Problemsolving.dll
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\bin\Debug\net7.0\DISAssignment_Problemsolving.pdb
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\DISAssignment_Problemsolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\DISAssignment_Problemsolving.AssemblyInfoInputs.cache
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\DISAssignment_Problemsolving.AssemblyInfo.cs
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\DISAssignment_Problemsolving.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\DISAssignment_Problemsolving.dll
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\refint\DISAssignment_Problemsolving.dll
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\DISAssignment_Problemsolving.pdb
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\DISAssignment_Problemsolving.genruntimeconfig.cache
+C:\Users\nikhi\source\repos\DISAssignment_Problemsolving\DISAssignment_Problemsolving\obj\Debug\net7.0\ref\DISAssignment_Problemsolving.dll
